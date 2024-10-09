@@ -2,27 +2,24 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
-        int maj = n/2;
-        unordered_map<int,int> mp;
-        for(int i = 0 ; i<n ; i++)
+        int count = 1;
+        int elmt = nums[0];
+        for(int i = 1 ; i<n ; i++)
         {
-            if(mp.find(nums[i])!=mp.end())
+            int cur = nums[i];
+            if(elmt == cur)
             {
-                mp[nums[i]]++;
+                count++;
             }
-            else
+            else if(elmt != cur && count>0)
             {
-                mp[nums[i]]=1;
+                count--;
+            }
+            else{
+                elmt = cur ;
+                count++;
             }
         }
-        int majelement = -1;
-        for(auto it = mp.begin() ; it!= mp.end() ; ++it)
-        {
-            if(it->second > maj)
-            {
-                majelement = it->first;
-            }
-        }
-        return majelement;
+        return elmt;
     }
 };
