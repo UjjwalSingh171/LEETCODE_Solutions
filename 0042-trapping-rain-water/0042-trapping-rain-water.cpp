@@ -1,31 +1,48 @@
 class Solution {
 public:
-    int trap(vector<int>& height) {
+    int trap(vector<int>& height) 
+    {
         int n = height.size();
-        if (n == 0) return 0;
-        
-        int left = 0, right = n - 1;
-        int left_max = 0, right_max = 0;
-        int water_trapped = 0;
-        
-        while (left < right) {
-            if (height[left] < height[right]) {
-                if (height[left] >= left_max) {
-                    left_max = height[left];
-                } else {
-                    water_trapped += left_max - height[left];
-                }
-                left++;
-            } else {
-                if (height[right] >= right_max) {
-                    right_max = height[right];
-                } else {
-                    water_trapped += right_max - height[right];
-                }
-                right--;
+        int pg[n];
+        pg[0] = -1;
+        int max = height[0];
+        for(int i = 1 ; i<n ; i++)
+        {
+            pg[i]=max;
+            if(height[i]>max)
+            {
+                max=height[i];
             }
         }
-        
-        return water_trapped;
+
+
+        int ng[n];
+        ng[n-1] = -1;
+        max = height[n-1];
+        for(int i = n-2 ; i>=0 ; i--)
+        {
+            ng[i]=max;
+            if(height[i]>max)
+            {
+                max=height[i];
+            }
+        }
+
+        int mini[n];
+        for(int i = 0 ; i<n ; i++)
+        {
+            mini[i]=min(pg[i],ng[i]);
+        }
+
+        int water = 0;
+        for(int i = 1 ; i<n-1 ; i++)
+        {
+            if(mini[i]>height[i])
+            {
+                water += (mini[i]-height[i]);
+            }
+        }
+
+        return water;
     }
 };
