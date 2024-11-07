@@ -1,22 +1,21 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        if(x<2)
-        {
-            return x;
-        }
-        for(int i = 0 ; i<=x/2 ; i++)
-        {
-            long long m = static_cast<long long>(i)*i;
-            if(m == x)
-            {
-                return i;
+        int lo = 0;
+        int hi = x;
+        int mid = -1;
+        while (lo <= hi) {
+            mid = lo + (hi - lo) / 2;
+            long long m = (long long)mid*mid;
+            long long y = (long long)(x);
+            if (m == y) {
+                return mid;
+            } else if (m > y) {
+                hi = mid - 1;
+            } else {
+                lo = mid + 1;
             }
-            else if(m>x)
-            {
-                return i-1;
-            }
         }
-        return x/2;
+        return hi;
     }
 };
