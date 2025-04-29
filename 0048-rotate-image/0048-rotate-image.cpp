@@ -11,11 +11,11 @@ public:
         }
         for(int i = 0 ; i<n ; i++)
         {
-            int j = n-1;
             int k = 0;
+            int j = n-1;
             while(j>k)
             {
-                swap(matrix[i][k], matrix[i][j]);
+                swap(matrix[i][k],matrix[i][j]);
                 k++;
                 j--;
             }
