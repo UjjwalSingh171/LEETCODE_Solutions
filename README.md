@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
@@ -46,12 +47,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
