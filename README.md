@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
