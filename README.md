@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0412-fizz-buzz) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0412-fizz-buzz) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Two Pointers
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
