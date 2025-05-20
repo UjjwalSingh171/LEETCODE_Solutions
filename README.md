@@ -87,10 +87,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
 | [2621-find-xor-beauty-of-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
