@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Binary Search
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -55,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
