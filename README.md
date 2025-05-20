@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0412-fizz-buzz) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2621-find-xor-beauty-of-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0202-happy-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
