@@ -1,30 +1,20 @@
 class Solution {
 public:
+    int reverse(int x)
+    {
+        long long X = x ;
+        long long y = 0 ;
+        while(X>0)
+        {
+            y *= 10 ;
+            y += X%10 ;
+            X/=10;
+        }
+        return (int)y;
+    }
     bool isPalindrome(int x) {
-        if(x<0)
-        {
-            return false;
-        }
-        if(x==0)
-        {
-            return true;
-        }
-        int y = x;
-        vector<int> v;
-        while(y>0)
-        {
-            v.push_back(y%10);
-            y/=10;
-        }
-        for(int i = 0, j = v.size()-1 ; j>i ; i++ ,j--)
-        {
-            if(v[i]!=v[j])
-            {
-                return false;
-            }
-        }
-
-        return true;
-
+        if(x<0) return false;
+        if(reverse(x)==x) return true;
+        else return false;
     }
 };
