@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0412-fizz-buzz) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0412-fizz-buzz) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0344-reverse-string) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
