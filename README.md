@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0136-single-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
