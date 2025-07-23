@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0191-number-of-1-bits) |
 ## Monotonic Stack
 |  |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Prefix Sum
 |  |
