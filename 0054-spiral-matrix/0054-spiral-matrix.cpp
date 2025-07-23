@@ -1,38 +1,36 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        if (matrix.empty() || matrix[0].empty())
-            return {};
-        
-        int n = matrix.size();
         int m = matrix[0].size();
-        vector<int> v;
-        int minr = 0, maxr = n - 1, minc = 0, maxc = m - 1;
-        int count = 0;
-        int total = n * m;
-        
-        while (minr <= maxr && minc <= maxc) {
-            for (int i = minc; i <= maxc && count < total; i++) {
-                v.push_back(matrix[minr][i]);
-                count++;
+        int n = matrix.size();
+
+        int sc = 0, ec = m - 1, sr = 0, er = n - 1;
+        vector<int> res;
+
+        while (sc <= ec and sr <= er) {
+            for (int i = sc; i <= ec; i++) {
+                res.push_back(matrix[sr][i]);
             }
-            minr++;
-            for (int i = minr; i <= maxr && count < total; i++) {
-                v.push_back(matrix[i][maxc]);
-                count++;
+            sr++;
+            for (int i = sr; i <= er; i++) {
+                res.push_back(matrix[i][ec]);
             }
-            maxc--;
-            for (int i = maxc; i >= minc && count < total; i--) {
-                v.push_back(matrix[maxr][i]);
-                count++;
+            ec--;
+
+            if (sr <= er) {
+                for (int i = ec; i >= sc; i--) {
+                    res.push_back(matrix[er][i]);
+                }
+                er--;
             }
-            maxr--;
-            for (int i = maxr; i >= minr && count < total; i--) {
-                v.push_back(matrix[i][minc]);
-                count++;
+
+            if (sc <= ec) {
+                for (int i = er; i >= sr; i--) {
+                    res.push_back(matrix[i][sc]);
+                }
+                sc++;
             }
-            minc++;
         }
-        return v;
+        return res;
     }
 };
