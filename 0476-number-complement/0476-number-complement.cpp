@@ -1,43 +1,42 @@
 class Solution {
 public:
-    int binTodec(string n)
+    int bintodec(vector<int> comp)
     {
-        long long x = 0 ;
+        int n = comp.size();
+        long long count = 0;
         long long pow = 1 ;
-        for(int i = n.size()-1 ; i>=0 ; i--)
+        for(int i = n-1 ; i>=0 ; i--)
         {
-            int bit = n[i]-'0';
-            x += bit*pow ;
+            count+=comp[i]*pow;
             pow *= 2;
         }
-        return x;
+        return (int)count;
     }
-    string compi(string n)
+    vector<int> complement(vector<int> binary)
     {
-        string s = "";
-        for(char c : n)
+        int n = binary.size();
+        for(int i = 0 ; i<n ; i++)
         {
-            if(c=='0') s.push_back('1');
-            else s.push_back('0');
+            binary[i] = 1 - binary[i];
         }
-        return s ;
+        return binary;
     }
-    string decTobin(int n)
+    vector<int> dectobin(int num)
     {
-        if(n==0) return "0";
-        string res = "";
-        while(n>0)
+        if(num==0) return {0};
+        vector<int> binary ;
+        while(num>0)
         {
-            res += char((n%2)+'0');
-            n /= 2 ;
+            binary.push_back(num%2);
+            num/=2;
         }
-        reverse(res.begin(), res.end());
-        return res ;
+        reverse(binary.begin(),binary.end());
+        return binary;
     }
     int findComplement(int num) {
-        string n1 = decTobin(num);
-        string n2 = compi(n1);
-        int n3 = binTodec(n2);
-        return n3;
+        vector<int> binary = dectobin(num);
+        vector<int> comp = complement(binary);
+        int res = bintodec(comp);
+        return res;
     }
 };
