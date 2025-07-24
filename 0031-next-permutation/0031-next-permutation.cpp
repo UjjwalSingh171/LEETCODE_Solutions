@@ -1,37 +1,14 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int n = nums.size();
-        int pivot = -1 ;
-        for(int i = n-2 ; i>=0 ; i--)
+        int n = nums.size() , i = n-2 ;
+        while(i>=0 and nums[i]>=nums[i+1]) i--;
+        if(i>=0)
         {
-            if(nums[i]<nums[i+1])
-            {
-                pivot = i;
-                break;
-            }
+            int j = n-1;
+            while(nums[j]<=nums[i]) j--;
+            swap(nums[i],nums[j]);
         }
-        if(pivot == -1 )
-        {
-            reverse(nums.begin(),nums.end());
-            return;
-        }
-        else
-        {
-            reverse(nums.begin()+pivot+1 , nums.end());
-            int j = -1;
-            for(int i = pivot+1 ; i<n ; i++)
-            {
-                if(nums[i]>nums[pivot])
-                {
-                    j = i;
-                    break;
-                }
-            }
-            int temp = nums[pivot];
-            nums[pivot] = nums[j];
-            nums[j] = temp;
-            return;
-        }
+        reverse(nums.begin()+i+1 , nums.end());
     }
 };
