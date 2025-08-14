@@ -1,16 +1,24 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int minn = prices[0];
-        int best = 0 ;
-        for(int i = 0 ; i<prices.size() ; i++)
-        {
-            if(minn>prices[i]) minn = prices[i] ;
-            else 
-            {
-                best = max(best,prices[i]-minn);
-            }
+        int n = prices.size();
+        vector<int> buy(n) , sell(n) ;
+
+        buy[0]=prices[0];
+        for(int i = 1 ; i<n ; i++){
+            buy[i]=min(buy[i-1],prices[i]);
         }
-        return best;
+
+        sell[n-1]=prices[n-1]; 
+        for(int i = n-2 ; i>0 ; i--){
+            sell[i]=max(sell[i+1],prices[i]);
+        }
+
+        int maxpro = 0 ;
+        for(int i = 0 ; i<n ; i++){
+            int currpro = sell[i]-buy[i];
+            maxpro = max(maxpro,currpro);
+        }
+        return maxpro;
     }
 };
