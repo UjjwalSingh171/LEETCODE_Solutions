@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0792-binary-search) |
+| [1435-xor-queries-of-a-subarray](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0645-set-mismatch) |
+| [1435-xor-queries-of-a-subarray](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2621-find-xor-beauty-of-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Greedy
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1435-xor-queries-of-a-subarray](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 ## Union Find
 |  |
 | ------- |
