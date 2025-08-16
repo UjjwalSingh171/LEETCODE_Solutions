@@ -1,22 +1,16 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
-     int low = 0, high = nums.size() - 1;
-
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-
-            // If the current mid is less than the next element
-            if (nums[mid] < nums[mid + 1]) {
-                // You are in an increasing slope, move right
-                low = mid + 1;
-            } else {
-                // You are in a decreasing slope or peak, move left
-                high = mid;
-            }
+        int n = nums.size();
+        if(n==1) return 0;
+        int left = 0 ;
+        int right = n-1 ;
+        int mid;
+        while(left<right){
+            mid=left+(right-left)/2;
+            if(nums[mid]<nums[mid+1]) left=mid+1;
+            else right=mid;
         }
-
-        // low == high → peak found
-        return low;
+        return left;
     }
 };
