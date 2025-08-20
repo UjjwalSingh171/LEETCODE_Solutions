@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2047-find-a-peak-element-ii](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2621-find-xor-beauty-of-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2621-find-xor-beauty-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2047-find-a-peak-element-ii](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2737-row-with-maximum-ones](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
