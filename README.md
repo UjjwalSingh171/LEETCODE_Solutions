@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Dynamic Programming
 |  |
