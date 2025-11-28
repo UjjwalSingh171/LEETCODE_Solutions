@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0509-fibonacci-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Two Pointers
@@ -195,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
