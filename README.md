@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0584-find-customer-referee) |
+| [0610-triangle-judgement](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1251-average-selling-price](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1251-average-selling-price) |
 | [1757-recyclable-and-low-fat-products](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
