@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0183-customers-who-never-order) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1251-average-selling-price](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1251-average-selling-price) |
