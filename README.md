@@ -209,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/0584-find-customer-referee) |
+| [1068-product-sales-analysis-i](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/UjjwalSingh171/LEETCODE_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
